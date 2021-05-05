@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jhashubham39@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/18M_3WQ6o26MLgEjNGIYItI-0OCWVYhoaIP8JqB6yeRc/edit?usp=drivesdk](https://docs.google.com/document/d/18M_3WQ6o26MLgEjNGIYItI-0OCWVYhoaIP8JqB6yeRc/edit?usp=drivesdk)
+- 📄 Know about my experiences [ Resume](https://drive.google.com/file/d/1sW1jd9BC9uyYHpTD-tQCpQc4bhBmESwo/view?usp=drivesdk)
 
 - ⚡ Fun fact **I love to play PUBG**
 
