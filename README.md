@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm shubham jha</h1>
 <h3 align="center">Passionate to learn!!</h3>
 
-<img align="right" style="padding:100px;" src="https://github.com/rock4shubham/rock4shubham/blob/main/about.png" width="500" height="450">
+ <img align="right"  src="https://github.com/rock4shubham/rock4shubham/blob/main/about.png" width="450" height="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rock4shubham&label=Profile%20views&color=0e75b6&style=flat" alt="rock4shubham" /> </p>
 
-- 👀 I’m interested in **Internship.**
+- 👀 I’m interested in **Internship.**  
 
 - 🌱 I’m currently learning **React, NodeJs and DataStructure**
 
