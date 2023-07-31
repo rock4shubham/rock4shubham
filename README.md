@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rock4shubham&label=Profile%20views&color=0e75b6&style=flat" alt="rock4shubham" /> </p>
 
-- 👀 I’m interested in **Internship.**  
+- 👀 I’m interested in **Data Engineering**  
 
-- 🌱 I’m currently learning **React, NodeJs and DataStructure**
+- 🌱 I’m currently learning **Pyspark,Databricks,ADF**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Spark**
 
 - 📫 How to reach me **jhashubham39@gmail.com**
 
