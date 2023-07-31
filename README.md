@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in **Data Engineering**  
 
-- 🌱 I’m currently learning **Pyspark,Databricks,ADF**
+- 🌱 I’m currently learning **ADF,Databricks,Pyspark**
 
 - 💬 Ask me about **Spark**
 
