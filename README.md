@@ -1,31 +1,59 @@
-<h1 align="center">Hi 👋, I'm shubham jha</h1>
-<h3 align="center">Passionate to learn!!</h3>
+<h1 align="center">Hi 👋, I'm Shubham Jha</h1>
+<h3 align="center">Data Engineer | Building Scalable Cloud Data Pipelines</h3>
 
- <img align="right"  src="https://github.com/rock4shubham/rock4shubham/blob/main/about.png" width="450" height="400">
+<img align="right" src="https://github.com/rock4shubham/rock4shubham/blob/main/about.png" width="450" height="400">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rock4shubham&label=Profile%20views&color=0e75b6&style=flat" alt="rock4shubham" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rock4shubham&label=Profile%20views&color=0e75b6&style=flat" alt="rock4shubham" />
+</p>
 
-- 👀 I’m interested in **Data Engineering**  
+- 👨‍💻 I’m a **Data Engineer** with experience in building data pipelines across S3, Snowflake, Iceberg, and Databricks.
 
-- 🌱 I’m currently learning **ADF,Databricks,Pyspark**
+- 🔁 I’ve worked on cloud modernization and real-time ingestion using **AWS Lambda**, **MSK**, **Glue**, and **Transfer Family**.
 
-- 💬 Ask me about **Spark**
+- 🚀 Currently using **PySpark + Databricks** for transforming encrypted financial data at scale.
 
-- 📫 How to reach me **jhashubham39@gmail.com**
+- 📦 Previously worked with Azure Stack: ADF, Synapse, and Streaming Pipelines.
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1O42W8AREJfjIbRHJ7aAqKMWJpQqpTFpf/view?usp=drive_link)
+- 📫 Reach me at **jhashubham39@gmail.com**
 
-- ⚡ Fun fact **I love to play PUBG**
+- 📄 Know more about my experience from my [Resume](https://drive.google.com/file/d/1rgVwusLQ9hUX5mwnGt-Vd0akxpHJpX46/view?usp=drive_link)
 
+- ⚡ Fun fact: **I’m a huge fan of PUBG & real-time systems** 🎮
 
+---
 
 <h3 align="left">Connect with me:</h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rock4shubham)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shubham-jha-a513041a8/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rock4shubham)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rock4shubham/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/rock4shubham)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/rock4shubham/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg' alt='geeksforgeeks' height='40'>](https://auth.geeksforgeeks.org/user/jhashubham39/profile)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rock4shubham)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shubham-jha-a513041a8/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rock4shubham)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rock4shubham/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/rock4shubham)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/rock4shubham/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg' alt='geeksforgeeks' height='40'>](https://auth.geeksforgeeks.org/user/jhashubham39/profile)
 
+---
 
+<h3 align="left">Languages & Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" /></a>
+  <a href="https://spark.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" width="40" height="40" /></a>
+<a href="https://databricks.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Databricks_Logo.png/320px-Databricks_Logo.png" width="40" height="40" />
+</a>
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+</a>
+  <a href="https://www.snowflake.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/22283550?s=200&v=4" width="40" height="40" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" /></a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rock4shubham&show_icons=true&locale=en" alt="rock4shubham" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rock4shubham&show_icons=true&locale=en" alt="rock4shubham" />
+</p>
